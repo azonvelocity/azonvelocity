@@ -3,7 +3,7 @@ import React from "react";
 export default function HomePage() {
   return (
     <div className="container">
-      <img src="/favicon.ico" alt="AzonVelocity Logo" className="logo" />
+      <img src="/logo.png" alt="AzonVelocity Logo" className="logo" />
       <h1>Welcome to AzonVelocity</h1>
       <p>See how fast your Amazon product will sell using sales rank and category.</p>
       <form action="https://sheetdb.io/api/v1/YOUR_SHEETDB_ENDPOINT" method="POST">

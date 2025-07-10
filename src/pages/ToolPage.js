@@ -33,7 +33,7 @@ export default function ToolPage() {
 
   return (
     <div className="container">
-      <img src="/favicon.ico" alt="AzonVelocity Logo" className="logo" />
+      <img src="/logo.png" alt="AzonVelocity Logo" className="logo" />
       <h2>Sales Rank Evaluation</h2>
       <input value={rank} onChange={e => setRank(e.target.value)} placeholder="Enter Rank" /><br /><br />
       <select value={category} onChange={e => setCategory(e.target.value)}>
