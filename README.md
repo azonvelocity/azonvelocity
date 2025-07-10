@@ -1,2 +1,2 @@
-# AzonVelocity
-A sales velocity estimator tool for Amazon sellers.
+# AzonVelocity v2
+With homepage, registration, and category-based visual feedback.

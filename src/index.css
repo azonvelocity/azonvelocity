@@ -2,6 +2,26 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f9f9f9;
-  color: #333;
+  background: #f3f3f3;
 }
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+.logo {
+  width: 200px;
+  margin-bottom: 2rem;
+}
+.bar-visual {
+  display: flex;
+  height: 20px;
+  margin-top: 1rem;
+}
+.bar {
+  flex: 1;
+  margin: 0 2px;
+}
+.green { background: green; }
+.yellow { background: yellow; }
+.red { background: red; }
